@@ -1,0 +1,15 @@
+/Users/kristupasgaidys/Documents/repos/smtpServer/bin/Debug/net6.0/smtpServer
+/Users/kristupasgaidys/Documents/repos/smtpServer/bin/Debug/net6.0/smtpServer.deps.json
+/Users/kristupasgaidys/Documents/repos/smtpServer/bin/Debug/net6.0/smtpServer.runtimeconfig.json
+/Users/kristupasgaidys/Documents/repos/smtpServer/bin/Debug/net6.0/smtpServer.dll
+/Users/kristupasgaidys/Documents/repos/smtpServer/bin/Debug/net6.0/ref/smtpServer.dll
+/Users/kristupasgaidys/Documents/repos/smtpServer/bin/Debug/net6.0/smtpServer.pdb
+/Users/kristupasgaidys/Documents/repos/smtpServer/obj/Debug/net6.0/smtpServer.csproj.AssemblyReference.cache
+/Users/kristupasgaidys/Documents/repos/smtpServer/obj/Debug/net6.0/smtpServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristupasgaidys/Documents/repos/smtpServer/obj/Debug/net6.0/smtpServer.AssemblyInfoInputs.cache
+/Users/kristupasgaidys/Documents/repos/smtpServer/obj/Debug/net6.0/smtpServer.AssemblyInfo.cs
+/Users/kristupasgaidys/Documents/repos/smtpServer/obj/Debug/net6.0/smtpServer.csproj.CoreCompileInputs.cache
+/Users/kristupasgaidys/Documents/repos/smtpServer/obj/Debug/net6.0/smtpServer.dll
+/Users/kristupasgaidys/Documents/repos/smtpServer/obj/Debug/net6.0/ref/smtpServer.dll
+/Users/kristupasgaidys/Documents/repos/smtpServer/obj/Debug/net6.0/smtpServer.pdb
+/Users/kristupasgaidys/Documents/repos/smtpServer/obj/Debug/net6.0/smtpServer.genruntimeconfig.cache
