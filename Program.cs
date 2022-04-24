@@ -12,12 +12,6 @@ namespace smtpServer
             // Server starts upon class init
             ServerSocket Server = new ServerSocket(Host, Port);
 
-            string messageFromClient;
-            while (true)
-            {
-                messageFromClient = Server.GetClientMessage();
-                Server.SendClientMessage(messageFromClient.ToUpper());
-            }
         }
     }
 }

@@ -37,6 +37,7 @@ namespace smtpServer
 
         public void SendClientMessage(string message)
         {
+            message.Concat("\r\n");
             Client.Send(Encoding.ASCII.GetBytes(message));
         }
 
