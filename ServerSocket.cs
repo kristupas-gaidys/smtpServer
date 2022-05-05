@@ -37,8 +37,8 @@ namespace smtpServer
 
         public void SendClientMessage(string message)
         {
-            message.Concat("\r\n");
-            Client.Send(Encoding.ASCII.GetBytes(message));
+            Client.Send(Encoding.ASCII.GetBytes(message + "\r\n"));
+            System.Console.WriteLine("SERVER: " + message);
         }
 
         public string GetClientMessage()
@@ -56,7 +56,8 @@ namespace smtpServer
                 }
             }
 
-            return data;
+            System.Console.WriteLine(data);
+            return data.Remove(data.Length - 2);
         }
 
         private void AcceptClient()
@@ -86,6 +87,12 @@ namespace smtpServer
             }
 
             Console.WriteLine($"\n Socket is listening on {Port} and {Host}");
+        }
+
+        public void CloseClient()
+        {
+            Client.Close();
+            System.Console.WriteLine("Closed connection to client");
         }
     }
 }

@@ -13,3 +13,5 @@
 /Users/kristupasgaidys/Documents/repos/smtpServer/obj/Debug/net6.0/ref/smtpServer.dll
 /Users/kristupasgaidys/Documents/repos/smtpServer/obj/Debug/net6.0/smtpServer.pdb
 /Users/kristupasgaidys/Documents/repos/smtpServer/obj/Debug/net6.0/smtpServer.genruntimeconfig.cache
+/Users/kristupasgaidys/Documents/repos/smtpServer/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/kristupasgaidys/Documents/repos/smtpServer/obj/Debug/net6.0/smtpServer.csproj.CopyComplete

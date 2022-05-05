@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "C8gB558m1rWJ+6XnfaTh9fMKuljHDD+YuXv1jcVohcdHLcAoJ+N8XMJN/a5hi99Jg1vDgSTCnkSoEHbNxOXQ6w==",
+  "dgSpecHash": "rxpHBIzzv9zjY+ra/c7no9wn9e865lz7b51VbRDHPtEpItdcFNGxWLH8GfwBZn2faxyvTAtjrFWOauZkKnMucg==",
   "success": true,
   "projectFilePath": "/Users/kristupasgaidys/Documents/repos/smtpServer/smtpServer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/kristupasgaidys/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
